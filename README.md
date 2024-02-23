@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning next js
 - 📫 How to reach me through gmail- tanishqpaul3@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm from mechanical background
 
 <!---
 Pixelpaul03/Pixelpaul03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
