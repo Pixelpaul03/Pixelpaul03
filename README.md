@@ -2,7 +2,6 @@
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning next js
 - 📫 How to reach me through gmail- tanishqpaul3@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I'm from mechanical background
 
 <!---
