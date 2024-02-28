@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pixelpaul03
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning next js
+- 🌱 I’m currently working on Next.js,React.js
 - 📫 How to reach me through gmail- tanishqpaul3@gmail.com
 - ⚡ Fun fact: I'm from mechanical background
 
